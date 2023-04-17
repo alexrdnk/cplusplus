@@ -1,0 +1,3 @@
+﻿  calculator.cpp
+C:\Users\48537\Desktop\Expressions calculator\Expressions Calculator\Expressions Calculator\calculator.cpp(17,11): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Expressions Calculator.vcxproj -> C:\Users\48537\Desktop\Expressions calculator\Expressions Calculator\x64\Debug\Expressions Calculator.exe
