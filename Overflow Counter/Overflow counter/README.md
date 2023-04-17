@@ -5,4 +5,4 @@ The project demonstrates strong C++ programming skills, including OOP concepts, 
 
 Your counter looks like 0 : minimal value.
 At each step, you can either add or subtract one to the minimum value.
-If the number on the right exceeds the maximum value, the counter will look like this: 1 : 0
+If the number on the right exceeds the maximum value, the counter will look like this: 1 : minimal value
